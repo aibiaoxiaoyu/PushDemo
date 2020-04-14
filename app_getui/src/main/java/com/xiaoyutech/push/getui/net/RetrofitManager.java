@@ -1,6 +1,6 @@
 package com.xiaoyutech.push.getui.net;
 
-import com.getui.demo.BuildConfig;
+import com.xiaoyutech.push.getui.BuildConfig;
 import com.xiaoyutech.push.getui.config.Config;
 import com.xiaoyutech.push.getui.net.interceptor.NetInterceptor;
 import com.xiaoyutech.push.getui.net.request.AuthRequest;

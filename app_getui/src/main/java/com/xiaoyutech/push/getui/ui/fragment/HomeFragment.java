@@ -24,7 +24,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.xiaoyutech.push.getui.DemoApplication;
-import com.getui.demo.R;
+import com.xiaoyutech.push.getui.R;
 import com.xiaoyutech.push.getui.ui.presenter.HomePresenter;
 import com.igexin.sdk.PushManager;
 

@@ -22,9 +22,11 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.getui.demo.BuildConfig;
+
+import com.xiaoyutech.push.getui.BuildConfig;
 import com.xiaoyutech.push.getui.DemoApplication;
-import com.getui.demo.R;
+
+import com.xiaoyutech.push.getui.R;
 import com.xiaoyutech.push.getui.config.Config;
 import com.xiaoyutech.push.getui.receiver.AlarmReceiver;
 import com.xiaoyutech.push.getui.ui.fragment.AdvancedFunctionFragment;

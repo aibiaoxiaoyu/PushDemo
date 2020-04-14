@@ -1,11 +1,11 @@
 ext {
     //个推APPID，APP_KEY，APP_SECRET 请填写您获取到的值
-    GETUI_APP_ID = ""
-    GETUI_APP_KEY = ""
-    GETUI_APP_SECRET = ""
+    GETUI_APP_ID = "z5U5pi293k8Vj6HDHHCfO4"
+    GETUI_APP_KEY = "rIXQQyQN3f7YP8R7pg7HZ1"
+    GETUI_APP_SECRET = "NAqU99Nf2OARThwNxV2p69"
 
     //注意：该 MASTERSECRET 仅用于测试推送功能使用，对外发布请勿配置该值，避免泄漏您的 MASTERSECRET 的值。
-    MASTERSECRET = ""
+    MASTERSECRET = "40Mpi5hBAW8KTZJBcGZAw5"
 
 
     //server url

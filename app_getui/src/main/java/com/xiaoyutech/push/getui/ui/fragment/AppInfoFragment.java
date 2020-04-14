@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.getui.demo.R;
+import com.xiaoyutech.push.getui.R;
 import com.xiaoyutech.push.getui.config.Config;
 import com.xiaoyutech.push.getui.ui.activity.GetuiSdkDemoActivity;
 import com.igexin.sdk.PushManager;

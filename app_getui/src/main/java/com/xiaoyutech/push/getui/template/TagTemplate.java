@@ -15,7 +15,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.getui.demo.R;
+import com.xiaoyutech.push.getui.R;
 import com.xiaoyutech.push.getui.widget.FlowLayoutView;
 import com.igexin.sdk.PushManager;
 import com.igexin.sdk.Tag;

@@ -7,10 +7,11 @@ import android.os.Message;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.xiaoyutech.push.getui.config.Config;
-import com.xiaoyutech.push.getui.ui.activity.GetuiSdkDemoActivity;
+import com.xiaoyutech.push.getui.BuildConfig;
 import com.igexin.sdk.IUserLoggerInterface;
 import com.igexin.sdk.PushManager;
+import com.xiaoyutech.push.getui.config.Config;
+import com.xiaoyutech.push.getui.ui.activity.GetuiSdkDemoActivity;
 
 import java.lang.ref.WeakReference;
 

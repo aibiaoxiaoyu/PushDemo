@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 28
     buildToolsVersion "28.0.3"
 
     defaultConfig {
-        applicationId "com.getui.demo"
-        minSdkVersion 15
-        targetSdkVersion 29
+        applicationId "com.xiaoyutech.push.getui"
+        minSdkVersion 19
+        targetSdkVersion 28
         versionCode 1
         versionName "1.0"
 
@@ -52,6 +52,7 @@ dependencies {
 
     //以下所有依赖库仅demo使用
     implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support:support-v4:28.0.0'
     //兼容5.0以下
     implementation 'com.squareup.okhttp3:okhttp:3.12.0'
     implementation 'com.squareup.retrofit2:retrofit:2.5.0'

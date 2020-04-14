@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
-import com.getui.demo.R;
+import com.xiaoyutech.push.getui.R;
 import com.xiaoyutech.push.getui.ui.AdvancedFunctionDetailsProxy;
 import com.xiaoyutech.push.getui.ui.activity.AdvancedFunctionDetailsActivity;
 

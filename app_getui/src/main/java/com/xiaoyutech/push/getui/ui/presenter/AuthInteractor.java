@@ -3,7 +3,7 @@ package com.xiaoyutech.push.getui.ui.presenter;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.getui.demo.BuildConfig;
+import com.xiaoyutech.push.getui.BuildConfig;
 import com.xiaoyutech.push.getui.config.Config;
 import com.xiaoyutech.push.getui.net.RetrofitManager;
 import com.xiaoyutech.push.getui.net.interceptor.NetInterceptor;
